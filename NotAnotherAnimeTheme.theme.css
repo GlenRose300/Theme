@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/729944720763125871/1108453172785193111/background2.jpg?ex=679db7b6&is=679c6636&hm=3668a6946ad1855ee0e6624306ce3f30ea9a4a432e7bccd115d069827bc1a84d&);
+  --theme-background-image: url(https://i.imgur.com/eY115ji.jpeg);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://cdn.discordapp.com/attachments/729944720763125871/1239701231308505179/2e233321f59ea0c0a913494010982e06.jpg?ex=679d4a3e&is=679bf8be&hm=5e4dc7f83f138c1818e01945f0707121291756cb681d0360d71f9019c688cf67&);
+  --home-icon-image: url(https://i.imgur.com/d7FLUZT.jpeg);
 
   /*
     Change your friends icon image position
@@ -72,7 +72,7 @@
   /*
     Server category hover color
   */
-  --category-hover-color: rgb(60, 202, 138);
+  --category-hover-color: rgb(60, 134, 219);
 
   /*
     Change the unread server animation.
